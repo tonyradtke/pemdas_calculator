@@ -1,8 +1,8 @@
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
-import data_structures.LinkedList.IteratorHelper;
-import data_structures.LinkedList.Node;
+import LinkedList.IteratorHelper;
+import LinkedList.Node;
 
 public class Stack<E> extends LinkedList<E> {
 	private LinkedList stack;
