@@ -1,8 +1,8 @@
 
 import java.util.StringTokenizer;
 
-import data_structures.Queue;
-import data_structures.Stack;
+import Queue;
+import Stack;
 
 public class ExpressionEvaluator  {
 
