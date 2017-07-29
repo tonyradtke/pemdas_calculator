@@ -1,6 +1,6 @@
 import java.util.Iterator;
-import data_structures.LinkedList.IteratorHelper;
-import data_structures.LinkedList.Node;
+import LinkedList.IteratorHelper;
+import LinkedList.Node;
 import java.util.NoSuchElementException;
 
 
